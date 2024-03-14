@@ -1,0 +1,31 @@
+<resources>
+    <string name="tab_text_1"></string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+    <string name="app_name"></string>
+    <string name="start_screen_title">Coffee so good, your taste buds will love it.</string>
+    <string name="start_screen_subtitle">The best grain, the finest roast, the powerful flavor.</string>
+    <string name="start_screen_btn">Get Started</string>
+    <string name="title_activity_tabbed_view">tabbedViewActivity</string>
+    <string name="title_activity_tab"></string>
+    <string name="detail">Detail</string>
+    <string name="cappucino">cappucino</string>
+    <string name="chocolate">With chocolate</string>
+    <string name="rating">4.5</string>
+    <string name="ratingCount">(230)</string>
+    <string name="description">Description</string>
+    <string name="description_subtitle">A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the fo.. Read More</string>
+    <string name="size">size</string>
+    <string name="size_S">S</string>
+    <string name="size_M">M</string>
+    <string name="size_L">L</string>
+    <string name="price_text">Price</string>
+    <string name="price_dollars">$ 4.53</string>
+    <string name="buy">Buy Now</string>
+
+
+
+
+
+</resources>
